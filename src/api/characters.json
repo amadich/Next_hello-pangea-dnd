@@ -1,0 +1,22 @@
+[
+   {
+      "id": 1,
+      "name": "Finn",
+      "image": "/characters/fin.png"
+   },
+   {
+      "id": 2,
+      "name": "Jake",
+      "image": "/characters/jake.png"
+   },
+   {
+      "id": 3,
+      "name": "BMO",
+      "image": "/characters/bmo.png"
+   },
+   {
+      "id": 4,
+      "name": "Space Princess",
+      "image": "/characters/pr_space.png"
+   }
+]
