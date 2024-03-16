@@ -1,0 +1,22 @@
+[
+   {
+      "id": 50,
+      "name": "Princess Bubblegum",
+      "image": "/characters/pr_gum.png"
+   },
+   {
+      "id": 60,
+      "name": "Marceline",
+      "image": "/characters/marceline.png"
+   },
+   {
+      "id": 70,
+      "name": "Vampire",
+      "image": "/characters/gar.png"
+   },
+   {
+      "id": 80,
+      "name": "cupcake",
+      "image": "/characters/cup.png"
+   }
+]
